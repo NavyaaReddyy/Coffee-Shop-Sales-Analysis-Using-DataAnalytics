@@ -1,1 +1,1 @@
-# CoffeeDataset-Statisticsandvisualizing
+We have analysed the dataset of a coffee shop. The main problem statement is to find the highly purchasing product and least selling product. So in this project we have imported imported python libraries and performed visualizing and analyzing data from the given dataset. This project helps the coffee shop to improve its businesS
